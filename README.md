@@ -1,61 +1,40 @@
 <div align="center">
-  <h1 align="center">Deep_Learning</h1>
+  <h1>Deep Learning</h1>
+  <p><strong>Neural network notebooks, TensorFlow/Keras experiments, transfer learning, object detection, and deployment-style projects.</strong></p>
   <p align="center">
-    <strong>Deep Learning models, neural network architectures, and experiments.</strong>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/github/license/CoderFatherBB/Deep_Learning?style=flat-square&color=007ec6" alt="License">
-    <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Deep_Learning?style=flat-square&color=007ec6" alt="Repo Size">
-    <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Deep_Learning?style=flat-square&color=007ec6" alt="Last Commit">
-  </p>
+  <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Deep_Learning?style=flat-square&color=007ec6" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Deep_Learning?style=flat-square&color=007ec6" alt="Last Commit">
+</p>
 </div>
 
----
+## About
 
-## 📖 Overview
+This repository contains deep learning practice projects and tutorials. It spans neural network basics, loss functions, gradient descent, CNNs, transfer learning, word embeddings, TensorBoard, GPU tests, and applied projects.
 
-Welcome to the **Deep_Learning** repository. Deep Learning models, neural network architectures, and experiments.
+## Repository Map
+
+- `DeepLearningML/`: core deep learning tutorials and exercises.
+- `Banglore_Home_Prices/`: model, server, client, and nginx files for a house-price project.
+- `TensorFlow_GPU_Test/`: TensorFlow GPU detection test.
+- `Grammer_Checker_For_NLP/`: grammar checker training notebook.
+- `Real_Time_Object_Detection_YOLOv8/`: YOLOv8 object detection work.
 
 
+## Getting Started
 
----
+Clone the repository:
 
-## 🚀 Getting Started
+```bash
+git clone https://github.com/CoderFatherBB/Deep_Learning.git
+cd Deep_Learning
+```
 
-### Prerequisites
+Open the folder or notebook you want to explore. Most directories are self-contained, so start from the local `README.md`, source file, notebook, or project folder for that topic.
 
-Make sure you have the necessary environment setup to run or build the project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
 
-### Installation & Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CoderFatherBB/Deep_Learning.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Deep_Learning
-   ```
-3. Run or execute the relevant files as per the language standards.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/CoderFatherBB/Deep_Learning/issues).
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>
